@@ -1,0 +1,45 @@
+Introduction of DevOps
+Task 1 of #90daysofdevops challenge
+What is DevOps?
+
+The Term DevOps is a combination of Tools which helps the automation of the whole infrastructure.
+DevOps is a methodology that allows a single team to manage the entire application development life cycle, that is development, testing deployment and operations.
+
+Benefits of DevOps
+
+1) Faster, better product delivery.
+2) Faster issue resolution and reduced complexity.
+3) Greater scalability and availability.
+4) More stable operating environments.
+5) Better resource utilization.
+6) Greater automation.
+7) Greater visibility into system outcomes.
+8) Greater innovation.
+
+What are Automation, Scaling, and Infrastructure?
+
+Automation: Automation is the use of technology to perform tasks with reduced human assistance. Automation helps you accelerate processes and scale environments, as well as build continuous integration, continuous delivery, and continuous deployment (CI/CD).
+
+Scaling: Scaling is characterized as an automation-driven environment where developers or enterprises can adopt DevOps culture and choose the right technologies to scale their business growth.
+
+Infrastructure: Infrastructure Automation refers to a concept that revolves around the idea of managing infrastructure with the help of code. This enables the operations team and the developers to manage, facilitate, and monitor the resources automatically. This saves the hassle and effort of having to do everything manually, which can slow down the process and cause an organization to function inefficiently.
+
+What are the key aspects behind DevOps?
+
+1) The key aspects behind DevOps are:
+2) Infrastructure as a Code
+3) Continuous Integration
+4) Continuous Deployment
+5) Automation
+6) Continuous Monitoring
+7) Security
+
+Why DevOps is so Important?
+
+1) It helps in the continuous delivery of software
+2) Better collaboration between teams
+3) For Easy deployment
+4) Better efficiency and scalability
+5) Errors are fixed at the initial stage
+6) It has more security
+7) Less manual intervention (which means fewer chances of error
